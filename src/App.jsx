@@ -27,7 +27,7 @@ export default function App() {
         ))}
       </div>
       <footer>
-        <a href="https://github.com/an1" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://github.com/anishNagula" target="_blank" rel="noopener noreferrer">GitHub</a>
         •
         <a href="https://www.instagram.com/anishnagula" target="_blank" rel="noopener noreferrer">Instagram</a>
         •
